@@ -1,3 +1,4 @@
+#![deny(missing_docs)]
 use std::collections::HashMap;
 
 /// The `KvStore` stores string key/value pairs.
